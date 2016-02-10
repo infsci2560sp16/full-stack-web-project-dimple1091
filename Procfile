@@ -1,1 +1,1 @@
-web:  node app.js
+web:  src/main/resources/public/index.html 
