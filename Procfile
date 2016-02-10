@@ -1,1 +1,1 @@
-web:  src/main/resources/public/index.html 
+web: java -cp target/classes:target/dependency/* Main
